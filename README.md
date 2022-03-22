@@ -1,4 +1,4 @@
-# React Modern UI/UX GPT-3
+# React Modern UI/UX
 
 ### [Live Site](https://react-modern-ui.netlify.app/)
 
